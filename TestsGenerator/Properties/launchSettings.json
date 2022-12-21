@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CodeGeneration": {
+      "commandName": "Project",
+      "commandLineArgs": "Class1.cs|GetAssembly.cs output 3 3 3",
+      "workingDirectory": "F:\\уникъ\\сем V\\сэпэпэ\\lab4.2\\TestsGenerator\\TestsGenerator\\bin\\Debug\\net6.0"
+    }
+  }
+}
